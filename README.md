@@ -1248,7 +1248,6 @@ NODE_ENV=production                          # Environment (development/producti
 
 # Database
 MONGODB_URI=mongodb://localhost:27017/proxima_crm    # MongoDB connection string
-# For MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/proxima_crm
 
 # JWT Authentication
 JWT_SECRET=your-very-secure-secret-key-here  # Secret key for JWT (change this!)
